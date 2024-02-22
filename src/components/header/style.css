@@ -1,0 +1,27 @@
+.glossyHeader {
+  background: linear-gradient(to bottom, #fff, #f2f2f2);
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.headerTitle {
+  margin: 0;
+  font-size: 24px;
+  color: #333;
+}
+
+.headerNav {
+  margin-top: 10px;
+}
+
+.navLink {
+  display: inline-block;
+  margin-right: 10px;
+  text-decoration: none;
+  color: #666;
+  font-weight: bold;
+}
+
+.navLink:hover {
+  color: #000;
+}
